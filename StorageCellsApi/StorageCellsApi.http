@@ -1,0 +1,6 @@
+@StorageCellsApi_HostAddress = http://localhost:5075
+
+GET {{StorageCellsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
